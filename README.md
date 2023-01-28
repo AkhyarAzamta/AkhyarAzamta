@@ -4,7 +4,7 @@
 <p align="center">
 
 </p>
-<h1 align="center">★ Junior Software Engineer ★ <img src="code.gif">
+<h1 align="center">★ Junior Programmer ★ <img src="code.gif">
 
 ## MY SOCIAL MEDIA <br>
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/AkhyarAzamta) [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://twitter.com/AkhyarAzamta)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/akhyar_azamta)
