@@ -20,7 +20,7 @@
 
   
   ## MY SOCIAL MEDIA <br>
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/AkhyarAzamta)
+[![](https://img.shields.io/badge/AkhyarAzamta-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/AkhyarAzamta)
 <a href="https://www.linkedin.com/in/akhyar-azamta/" alt="LinkedIn">
 <img src="https://img.shields.io/badge/-AkhyarAzamta-blue?style=flat-square&logo=linkedin" /></a>
 [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://twitter.com/AkhyarAzamta)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/akhyar_azamta)
