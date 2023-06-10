@@ -23,6 +23,6 @@
 [![](https://img.shields.io/badge/AkhyarAzamta-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/AkhyarAzamta)
 <a href="https://www.linkedin.com/in/akhyar-azamta/" alt="LinkedIn">
 <img src="https://img.shields.io/badge/-AkhyarAzamta-blue?style=flat-square&logo=linkedin" /></a>
-[![](https://img.shields.io/badge/AkhyarAzamta-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://twitter.com/AkhyarAzamta)[![](https://img.shields.io/badge/AkhyarAzamta-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://t.me/AkhyarAzamta)
+[![](https://img.shields.io/badge/AkhyarAzamta-blue?logo=Twitter&logoColor=White&labelColor=white)](https://twitter.com/AkhyarAzamta)[![](https://img.shields.io/badge/AkhyarAzamta-blue?logo=Telegram&logoColor=blue&labelColor=white)](https://t.me/AkhyarAzamta)
 [![](https://img.shields.io/badge/AkhyarAzamta-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/akhyarazamta)[![](https://img.shields.io/badge/akhyar.azamta-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/akhyar.azamta) [![](https://img.shields.io/badge/-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/123456789?text=Hallo)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=900&lines=Code+for+a+better+tomorrow)](https://git.io/typing-svg)
