@@ -22,7 +22,7 @@
   ## MY SOCIAL MEDIA <br>
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/AkhyarAzamta)
 <a href="https://www.linkedin.com/in/akhyar-azamta/" alt="LinkedIn">
-<img src="https://img.shields.io/badge/-manigandand-blue?style=flat-square&logo=linkedin" /></a>
+<img src="https://img.shields.io/badge/-AkhyarAzamta-blue?style=flat-square&logo=linkedin" /></a>
 [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://twitter.com/AkhyarAzamta)[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/akhyar_azamta)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/akhyarazamta)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/akhyar.azamta) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/123456789?text=Asalamualaikum+kak+Akhyar+ganteng)
 
